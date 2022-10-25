@@ -3,7 +3,7 @@
 ## :dna:About Me:
    - :mortar_board: Studying to an ML Engineer with AICore
    - :test_tube: Chemistry graduate from University of Sussex
-   - :iphone: Currently working on FB Marketplaces Recommendation Ranking System
+   - :iphone: Currently working on FB Marketplace's Recommendation Ranking System
    - :ballot_box_with_check: Check out my other projects in my public repositorys
 ## :mailbox_with_no_mail: Find me on:
 <p align="center">
