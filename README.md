@@ -3,7 +3,8 @@
 ## :dna:About Me:
    - :mortar_board: Studying to an ML Engineer with AICore
    - :test_tube: Chemistry graduate from University of Sussex
-
+   - :iphone: Currently working on FB Marketplaces Recommendation Ranking System
+   - :ballot_box_with_check: Check out my other projects in my public repositorys
 ## :mailbox_with_no_mail: Find me on:
 <p align="center">
  <a href="https://www.linkedin.com/in/danny-o-connor-3b7156178/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -26,6 +27,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="amazonwebservices" alt="amazonwebservices" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
 
 ### :chart_with_upwards_trend: My Stats:
 
