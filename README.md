@@ -1,7 +1,7 @@
 ## Hello! Welcome to my GitHub profile 👋
 
 ## :dna:About Me:
-   - :mortar_board: Studying to an ML Engineer with AICore
+   - :mortar_board: Studying to be an ML Engineer with AICore
    - :test_tube: Chemistry graduate from University of Sussex
    - :iphone: Currently working on FB Marketplace's Recommendation Ranking System
    - :ballot_box_with_check: Check out my other projects in my public repositorys
