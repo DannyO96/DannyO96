@@ -36,4 +36,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyO96&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyO96&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=DannyO96.DannyO96)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyO96&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
